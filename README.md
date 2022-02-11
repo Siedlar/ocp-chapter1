@@ -1,7 +1,49 @@
 # JAVA DEVELOPER CERTIFICATION
 ## CHAPTER 1
 ## Table of contents
-[[_TOC_]]
+
+- [JAVA DEVELOPER CERTIFICATION](#java-developer-certification)
+    * [CHAPTER 1](#chapter-1)
+    * [Table of contents](#table-of-contents)
+    * [Major Components of Java](#major-components-of-java)
+    * [Bytecode](#bytecode)
+    * [JRE in java 11](#jre-in-java-11)
+    * [API -  Application programming interfaces](#api----application-programming-interfaces)
+    * [Downloading a JDK](#downloading-a-jdk)
+    * [Benefits of Java](#benefits-of-java)
+        + [Object Oriented](#object-oriented)
+        + [Encapsulation](#encapsulation)
+        + [Platform Independent](#platform-independent)
+        + [Robust (solidny)](#robust--solidny-)
+        + [Simple](#simple)
+        + [Secure](#secure)
+        + [Multithreaded](#multithreaded)
+        + [Backward Compatibility](#backward-compatibility)
+    * [Understanding the Java Class Structure](#understanding-the-java-class-structure)
+        + [Keyword](#keyword)
+        + [Fields and Methods](#fields-and-methods)
+            - [Method signature](#method-signature)
+            - [Method declaration](#method-declaration)
+        + [Comments](#comments)
+        + [Classes vs Files](#classes-vs-files)
+        + [Writing a main() Method](#writing-a-main---method)
+            - [Creating a main() Method](#creating-a-main---method)
+            - [Passing Parameters to a Java Program](#passing-parameters-to-a-java-program)
+    * [Running a Program in One Line](#running-a-program-in-one-line)
+    * [Understanding Package Declarations and Imports](#understanding-package-declarations-and-imports)
+        + [Wildcards](#wildcards)
+        + [Redundant Imports](#redundant-imports)
+        + [Naming Conflicts](#naming-conflicts)
+        + [Compiling and Running Code with Packages](#compiling-and-running-code-with-packages)
+        + [Using an Alternate Directory](#using-an-alternate-directory)
+        + [Compiling with JAR Files](#compiling-with-jar-files)
+        + [Creating a JAR File](#creating-a-jar-file)
+        + [Running a Program in One Line with Packages](#running-a-program-in-one-line-with-packages)
+        + [Ordering Elements in a Class](#ordering-elements-in-a-class)
+    * [Code Formatting on the Exam](#code-formatting-on-the-exam)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Major Components of Java
 

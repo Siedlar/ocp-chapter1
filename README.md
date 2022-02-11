@@ -1,7 +1,7 @@
 # JAVA DEVELOPER CERTIFICATION
 ## CHAPTER 1
 ## Table of contents
-* [Major Components of Java](##Major Components of Java)
+[[_TOC_]]
 
 ## Major Components of Java
 
